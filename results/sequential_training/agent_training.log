@@ -1,0 +1,1005 @@
+2018-10-19 20:20:36,699 INFO:     
+
+
+ 
+2018-10-19 20:20:36,702 INFO:     Started New Agent Training run. 
+2018-10-19 20:20:39,455 INFO:     _________________________________________________________________ 
+2018-10-19 20:20:39,456 INFO:     Layer (type)                 Output Shape              Param #    
+2018-10-19 20:20:39,457 INFO:     ================================================================= 
+2018-10-19 20:20:39,459 INFO:     input_1 (InputLayer)         (None, 64)                0          
+2018-10-19 20:20:39,459 INFO:     _________________________________________________________________ 
+2018-10-19 20:20:39,461 INFO:     dense_1 (Dense)              (None, 6)                 390        
+2018-10-19 20:20:39,461 INFO:     ================================================================= 
+2018-10-19 20:20:39,463 INFO:     Total params: 390 
+2018-10-19 20:20:39,464 INFO:     Trainable params: 390 
+2018-10-19 20:20:39,465 INFO:     Non-trainable params: 0 
+2018-10-19 20:20:39,465 INFO:     _________________________________________________________________ 
+2018-10-19 20:20:39,552 INFO:      
+2018-10-19 20:20:39,553 INFO:     Evaluating 32 canidates of generation 1 
+2018-10-19 20:32:47,354 INFO:     Finished generation in 727.84 seconds. 
+2018-10-19 20:32:47,355 INFO:     Mean reward: 68.44 
+2018-10-19 20:32:47,356 INFO:     Max reward:  288.33 
+2018-10-19 20:32:47,357 INFO:     Reward std:  83.93 
+2018-10-19 20:32:47,358 INFO:     Saving model of best agent and CMA state 
+2018-10-19 20:32:47,559 INFO:      
+2018-10-19 20:32:47,562 INFO:     Evaluating 32 canidates of generation 2 
+2018-10-19 20:46:43,350 INFO:     Finished generation in 835.80 seconds. 
+2018-10-19 20:46:43,352 INFO:     Mean reward: 82.86 
+2018-10-19 20:46:43,354 INFO:     Max reward:  305.00 
+2018-10-19 20:46:43,356 INFO:     Reward std:  96.13 
+2018-10-19 20:46:43,358 INFO:     Saving model of best agent and CMA state 
+2018-10-19 20:46:43,831 INFO:      
+2018-10-19 20:46:43,837 INFO:     Evaluating 32 canidates of generation 3 
+2018-10-19 21:14:29,562 INFO:     Finished generation in 1665.81 seconds. 
+2018-10-19 21:14:29,564 INFO:     Mean reward: 85.89 
+2018-10-19 21:14:29,566 INFO:     Max reward:  221.67 
+2018-10-19 21:14:29,568 INFO:     Reward std:  75.75 
+2018-10-19 21:14:29,569 INFO:     Saving model of best agent and CMA state 
+2018-10-19 21:14:31,939 INFO:      
+2018-10-19 21:14:31,956 INFO:     Evaluating 32 canidates of generation 4 
+2018-10-19 21:42:25,715 INFO:     Finished generation in 1675.72 seconds. 
+2018-10-19 21:42:25,717 INFO:     Mean reward: 140.26 
+2018-10-19 21:42:25,719 INFO:     Max reward:  283.33 
+2018-10-19 21:42:25,721 INFO:     Reward std:  81.78 
+2018-10-19 21:42:25,723 INFO:     Saving model of best agent and CMA state 
+2018-10-19 21:42:26,480 INFO:      
+2018-10-19 21:42:26,493 INFO:     Evaluating 32 canidates of generation 5 
+2018-10-19 22:09:37,338 INFO:     Finished generation in 1630.89 seconds. 
+2018-10-19 22:09:37,339 INFO:     Mean reward: 154.74 
+2018-10-19 22:09:37,341 INFO:     Max reward:  238.33 
+2018-10-19 22:09:37,342 INFO:     Reward std:  62.39 
+2018-10-19 22:09:37,343 INFO:     Saving model of best agent and CMA state 
+2018-10-19 22:09:37,659 INFO:      
+2018-10-19 22:09:37,661 INFO:     Evaluating 32 canidates of generation 6 
+2018-10-19 22:39:49,881 INFO:     Finished generation in 1812.23 seconds. 
+2018-10-19 22:39:49,883 INFO:     Mean reward: 189.64 
+2018-10-19 22:39:49,885 INFO:     Max reward:  370.00 
+2018-10-19 22:39:49,887 INFO:     Reward std:  76.44 
+2018-10-19 22:39:49,890 INFO:     Saving model of best agent and CMA state 
+2018-10-19 22:39:52,880 INFO:      
+2018-10-19 22:39:52,884 INFO:     Evaluating 32 canidates of generation 7 
+2018-10-19 23:07:11,394 INFO:     Finished generation in 1640.75 seconds. 
+2018-10-19 23:07:11,396 INFO:     Mean reward: 178.28 
+2018-10-19 23:07:11,398 INFO:     Max reward:  268.33 
+2018-10-19 23:07:11,401 INFO:     Reward std:  52.35 
+2018-10-19 23:07:11,406 INFO:     Saving model of best agent and CMA state 
+2018-10-19 23:07:12,287 INFO:      
+2018-10-19 23:07:12,292 INFO:     Evaluating 32 canidates of generation 8 
+2018-10-19 23:36:57,730 INFO:     Finished generation in 1785.50 seconds. 
+2018-10-19 23:36:57,731 INFO:     Mean reward: 199.95 
+2018-10-19 23:36:57,733 INFO:     Max reward:  443.33 
+2018-10-19 23:36:57,734 INFO:     Reward std:  61.39 
+2018-10-19 23:36:57,735 INFO:     Saving model of best agent and CMA state 
+2018-10-19 23:36:58,115 INFO:      
+2018-10-19 23:36:58,118 INFO:     Evaluating 32 canidates of generation 9 
+2018-10-20 00:06:56,685 INFO:     Finished generation in 1798.58 seconds. 
+2018-10-20 00:06:56,687 INFO:     Mean reward: 195.21 
+2018-10-20 00:06:56,689 INFO:     Max reward:  325.00 
+2018-10-20 00:06:56,692 INFO:     Reward std:  64.62 
+2018-10-20 00:06:56,695 INFO:     Saving model of best agent and CMA state 
+2018-10-20 00:07:00,364 INFO:      
+2018-10-20 00:07:00,368 INFO:     Evaluating 32 canidates of generation 10 
+2018-10-20 00:35:50,297 INFO:     Finished generation in 1732.63 seconds. 
+2018-10-20 00:35:50,299 INFO:     Mean reward: 186.93 
+2018-10-20 00:35:50,300 INFO:     Max reward:  275.00 
+2018-10-20 00:35:50,301 INFO:     Reward std:  55.63 
+2018-10-20 00:35:50,303 INFO:     Saving model of best agent and CMA state 
+2018-10-20 00:35:51,374 INFO:      
+2018-10-20 00:35:51,376 INFO:     Evaluating 32 canidates of generation 11 
+2018-10-20 01:04:07,738 INFO:     Finished generation in 1696.38 seconds. 
+2018-10-20 01:04:07,739 INFO:     Mean reward: 201.51 
+2018-10-20 01:04:07,740 INFO:     Max reward:  355.00 
+2018-10-20 01:04:07,741 INFO:     Reward std:  49.76 
+2018-10-20 01:04:07,742 INFO:     Saving model of best agent and CMA state 
+2018-10-20 01:04:08,319 INFO:      
+2018-10-20 01:04:08,321 INFO:     Evaluating 32 canidates of generation 12 
+2018-10-20 01:33:15,592 INFO:     Finished generation in 1747.28 seconds. 
+2018-10-20 01:33:15,594 INFO:     Mean reward: 197.60 
+2018-10-20 01:33:15,596 INFO:     Max reward:  323.33 
+2018-10-20 01:33:15,598 INFO:     Reward std:  52.26 
+2018-10-20 01:33:15,600 INFO:     Saving model of best agent and CMA state 
+2018-10-20 01:33:18,588 INFO:      
+2018-10-20 01:33:18,604 INFO:     Evaluating 32 canidates of generation 13 
+2018-10-20 01:59:36,383 INFO:     Finished generation in 1580.14 seconds. 
+2018-10-20 01:59:36,385 INFO:     Mean reward: 188.18 
+2018-10-20 01:59:36,386 INFO:     Max reward:  416.67 
+2018-10-20 01:59:36,387 INFO:     Reward std:  60.77 
+2018-10-20 01:59:36,388 INFO:     Saving model of best agent and CMA state 
+2018-10-20 01:59:36,871 INFO:      
+2018-10-20 01:59:36,872 INFO:     Evaluating 32 canidates of generation 14 
+2018-10-20 02:27:24,478 INFO:     Finished generation in 1667.62 seconds. 
+2018-10-20 02:27:24,480 INFO:     Mean reward: 206.04 
+2018-10-20 02:27:24,481 INFO:     Max reward:  326.67 
+2018-10-20 02:27:24,483 INFO:     Reward std:  57.18 
+2018-10-20 02:27:24,485 INFO:     Saving model of best agent and CMA state 
+2018-10-20 02:27:25,200 INFO:      
+2018-10-20 02:27:25,202 INFO:     Evaluating 32 canidates of generation 15 
+2018-10-20 02:54:13,719 INFO:     Finished generation in 1608.53 seconds. 
+2018-10-20 02:54:13,721 INFO:     Mean reward: 228.12 
+2018-10-20 02:54:13,722 INFO:     Max reward:  543.33 
+2018-10-20 02:54:13,724 INFO:     Reward std:  100.42 
+2018-10-20 02:54:13,725 INFO:     Saving model of best agent and CMA state 
+2018-10-20 02:54:17,048 INFO:      
+2018-10-20 02:54:17,050 INFO:     Evaluating 32 canidates of generation 16 
+2018-10-20 03:20:33,660 INFO:     Finished generation in 1579.04 seconds. 
+2018-10-20 03:20:33,662 INFO:     Mean reward: 204.43 
+2018-10-20 03:20:33,665 INFO:     Max reward:  345.00 
+2018-10-20 03:20:33,668 INFO:     Reward std:  51.53 
+2018-10-20 03:20:33,671 INFO:     Saving model of best agent and CMA state 
+2018-10-20 03:20:34,888 INFO:      
+2018-10-20 03:20:34,893 INFO:     Evaluating 32 canidates of generation 17 
+2018-10-20 03:46:56,395 INFO:     Finished generation in 1581.56 seconds. 
+2018-10-20 03:46:56,397 INFO:     Mean reward: 192.40 
+2018-10-20 03:46:56,401 INFO:     Max reward:  320.00 
+2018-10-20 03:46:56,403 INFO:     Reward std:  60.83 
+2018-10-20 03:46:56,405 INFO:     Saving model of best agent and CMA state 
+2018-10-20 03:46:57,559 INFO:      
+2018-10-20 03:46:57,577 INFO:     Evaluating 32 canidates of generation 18 
+2018-10-20 04:15:28,831 INFO:     Finished generation in 1711.30 seconds. 
+2018-10-20 04:15:28,834 INFO:     Mean reward: 209.79 
+2018-10-20 04:15:28,836 INFO:     Max reward:  595.00 
+2018-10-20 04:15:28,837 INFO:     Reward std:  94.91 
+2018-10-20 04:15:28,839 INFO:     Saving model of best agent and CMA state 
+2018-10-20 04:15:31,675 INFO:      
+2018-10-20 04:15:31,693 INFO:     Evaluating 32 canidates of generation 19 
+2018-10-20 04:43:18,721 INFO:     Finished generation in 1668.70 seconds. 
+2018-10-20 04:43:18,724 INFO:     Mean reward: 189.06 
+2018-10-20 04:43:18,726 INFO:     Max reward:  270.00 
+2018-10-20 04:43:18,728 INFO:     Reward std:  43.57 
+2018-10-20 04:43:18,730 INFO:     Saving model of best agent and CMA state 
+2018-10-20 04:43:20,063 INFO:      
+2018-10-20 04:43:20,067 INFO:     Evaluating 32 canidates of generation 20 
+2018-10-20 05:12:41,183 INFO:     Finished generation in 1761.14 seconds. 
+2018-10-20 05:12:41,186 INFO:     Mean reward: 208.39 
+2018-10-20 05:12:41,188 INFO:     Max reward:  338.33 
+2018-10-20 05:12:41,191 INFO:     Reward std:  53.44 
+2018-10-20 05:12:41,193 INFO:     Saving model of best agent and CMA state 
+2018-10-20 05:12:42,656 INFO:      
+2018-10-20 05:12:42,661 INFO:     Evaluating 32 canidates of generation 21 
+2018-10-20 05:41:16,445 INFO:     Finished generation in 1713.83 seconds. 
+2018-10-20 05:41:16,447 INFO:     Mean reward: 201.51 
+2018-10-20 05:41:16,449 INFO:     Max reward:  363.33 
+2018-10-20 05:41:16,453 INFO:     Reward std:  45.32 
+2018-10-20 05:41:16,455 INFO:     Saving model of best agent and CMA state 
+2018-10-20 05:41:20,135 INFO:      
+2018-10-20 05:41:20,144 INFO:     Evaluating 32 canidates of generation 22 
+2018-10-20 06:07:57,723 INFO:     Finished generation in 1599.78 seconds. 
+2018-10-20 06:07:57,725 INFO:     Mean reward: 190.26 
+2018-10-20 06:07:57,727 INFO:     Max reward:  343.33 
+2018-10-20 06:07:57,729 INFO:     Reward std:  64.21 
+2018-10-20 06:07:57,731 INFO:     Saving model of best agent and CMA state 
+2018-10-20 06:07:58,363 INFO:      
+2018-10-20 06:07:58,387 INFO:     Evaluating 32 canidates of generation 23 
+2018-10-20 06:36:33,497 INFO:     Finished generation in 1715.16 seconds. 
+2018-10-20 06:36:33,500 INFO:     Mean reward: 185.89 
+2018-10-20 06:36:33,502 INFO:     Max reward:  341.67 
+2018-10-20 06:36:33,504 INFO:     Reward std:  78.18 
+2018-10-20 06:36:33,506 INFO:     Saving model of best agent and CMA state 
+2018-10-20 06:36:34,364 INFO:      
+2018-10-20 06:36:34,376 INFO:     Evaluating 32 canidates of generation 24 
+2018-10-20 07:05:21,985 INFO:     Finished generation in 1727.70 seconds. 
+2018-10-20 07:05:21,987 INFO:     Mean reward: 213.91 
+2018-10-20 07:05:21,991 INFO:     Max reward:  375.00 
+2018-10-20 07:05:21,994 INFO:     Reward std:  72.78 
+2018-10-20 07:05:21,997 INFO:     Saving model of best agent and CMA state 
+2018-10-20 07:05:25,167 INFO:      
+2018-10-20 07:05:25,179 INFO:     Evaluating 32 canidates of generation 25 
+2018-10-20 07:31:15,757 INFO:     Finished generation in 1552.90 seconds. 
+2018-10-20 07:31:15,758 INFO:     Mean reward: 206.93 
+2018-10-20 07:31:15,759 INFO:     Max reward:  370.00 
+2018-10-20 07:31:15,760 INFO:     Reward std:  64.39 
+2018-10-20 07:31:15,761 INFO:     Saving model of best agent and CMA state 
+2018-10-20 07:31:16,188 INFO:      
+2018-10-20 07:31:16,189 INFO:     Evaluating 32 canidates of generation 26 
+2018-10-20 07:59:07,856 INFO:     Finished generation in 1671.68 seconds. 
+2018-10-20 07:59:07,857 INFO:     Mean reward: 230.26 
+2018-10-20 07:59:07,858 INFO:     Max reward:  493.33 
+2018-10-20 07:59:07,860 INFO:     Reward std:  104.16 
+2018-10-20 07:59:07,861 INFO:     Saving model of best agent and CMA state 
+2018-10-20 07:59:08,275 INFO:      
+2018-10-20 07:59:08,278 INFO:     Evaluating 32 canidates of generation 27 
+2018-10-20 08:25:37,537 INFO:     Finished generation in 1589.27 seconds. 
+2018-10-20 08:25:37,539 INFO:     Mean reward: 203.07 
+2018-10-20 08:25:37,541 INFO:     Max reward:  348.33 
+2018-10-20 08:25:37,544 INFO:     Reward std:  62.78 
+2018-10-20 08:25:37,549 INFO:     Saving model of best agent and CMA state 
+2018-10-20 08:25:40,512 INFO:      
+2018-10-20 08:25:40,527 INFO:     Evaluating 32 canidates of generation 28 
+2018-10-20 08:53:34,728 INFO:     Finished generation in 1676.10 seconds. 
+2018-10-20 08:53:34,731 INFO:     Mean reward: 221.35 
+2018-10-20 08:53:34,733 INFO:     Max reward:  405.00 
+2018-10-20 08:53:34,736 INFO:     Reward std:  76.35 
+2018-10-20 08:53:34,738 INFO:     Saving model of best agent and CMA state 
+2018-10-20 08:53:36,023 INFO:      
+2018-10-20 08:53:36,031 INFO:     Evaluating 32 canidates of generation 29 
+2018-10-20 09:20:02,050 INFO:     Finished generation in 1586.07 seconds. 
+2018-10-20 09:20:02,054 INFO:     Mean reward: 189.90 
+2018-10-20 09:20:02,056 INFO:     Max reward:  391.67 
+2018-10-20 09:20:02,058 INFO:     Reward std:  83.49 
+2018-10-20 09:20:02,061 INFO:     Saving model of best agent and CMA state 
+2018-10-20 09:20:03,510 INFO:      
+2018-10-20 09:20:03,522 INFO:     Evaluating 32 canidates of generation 30 
+2018-10-20 09:47:01,401 INFO:     Finished generation in 1617.97 seconds. 
+2018-10-20 09:47:01,404 INFO:     Mean reward: 195.83 
+2018-10-20 09:47:01,406 INFO:     Max reward:  346.67 
+2018-10-20 09:47:01,408 INFO:     Reward std:  77.19 
+2018-10-20 09:47:01,409 INFO:     Saving model of best agent and CMA state 
+2018-10-20 09:47:05,123 INFO:      
+2018-10-20 09:47:05,139 INFO:     Evaluating 32 canidates of generation 31 
+2018-10-20 10:16:13,851 INFO:     Finished generation in 1750.69 seconds. 
+2018-10-20 10:16:13,852 INFO:     Mean reward: 204.01 
+2018-10-20 10:16:13,853 INFO:     Max reward:  406.67 
+2018-10-20 10:16:13,854 INFO:     Reward std:  77.97 
+2018-10-20 10:16:13,855 INFO:     Saving model of best agent and CMA state 
+2018-10-20 10:16:14,573 INFO:      
+2018-10-20 10:16:14,575 INFO:     Evaluating 32 canidates of generation 32 
+2018-10-20 10:45:16,127 INFO:     Finished generation in 1741.56 seconds. 
+2018-10-20 10:45:16,129 INFO:     Mean reward: 223.70 
+2018-10-20 10:45:16,131 INFO:     Max reward:  410.00 
+2018-10-20 10:45:16,133 INFO:     Reward std:  80.98 
+2018-10-20 10:45:16,135 INFO:     Saving model of best agent and CMA state 
+2018-10-20 10:45:16,883 INFO:      
+2018-10-20 10:45:16,887 INFO:     Evaluating 32 canidates of generation 33 
+2018-10-20 11:11:03,373 INFO:     Finished generation in 1546.54 seconds. 
+2018-10-20 11:11:03,376 INFO:     Mean reward: 184.69 
+2018-10-20 11:11:03,377 INFO:     Max reward:  386.67 
+2018-10-20 11:11:03,379 INFO:     Reward std:  77.50 
+2018-10-20 11:11:03,381 INFO:     Saving model of best agent and CMA state 
+2018-10-20 11:11:05,264 INFO:      
+2018-10-20 11:11:05,286 INFO:     Evaluating 32 canidates of generation 34 
+2018-10-20 11:36:45,187 INFO:     Finished generation in 1541.09 seconds. 
+2018-10-20 11:36:45,189 INFO:     Mean reward: 201.09 
+2018-10-20 11:36:45,190 INFO:     Max reward:  331.67 
+2018-10-20 11:36:45,191 INFO:     Reward std:  59.82 
+2018-10-20 11:36:45,191 INFO:     Saving model of best agent and CMA state 
+2018-10-20 11:36:45,537 INFO:      
+2018-10-20 11:36:45,539 INFO:     Evaluating 32 canidates of generation 35 
+2018-10-20 12:04:37,025 INFO:     Finished generation in 1671.50 seconds. 
+2018-10-20 12:04:37,026 INFO:     Mean reward: 215.00 
+2018-10-20 12:04:37,027 INFO:     Max reward:  486.67 
+2018-10-20 12:04:37,028 INFO:     Reward std:  74.26 
+2018-10-20 12:04:37,029 INFO:     Saving model of best agent and CMA state 
+2018-10-20 12:04:37,416 INFO:      
+2018-10-20 12:04:37,418 INFO:     Evaluating 32 canidates of generation 36 
+2018-10-20 12:30:11,476 INFO:     Finished generation in 1534.07 seconds. 
+2018-10-20 12:30:11,478 INFO:     Mean reward: 197.08 
+2018-10-20 12:30:11,480 INFO:     Max reward:  361.67 
+2018-10-20 12:30:11,484 INFO:     Reward std:  66.97 
+2018-10-20 12:30:11,488 INFO:     Saving model of best agent and CMA state 
+2018-10-20 12:30:13,495 INFO:      
+2018-10-20 12:30:13,500 INFO:     Evaluating 32 canidates of generation 37 
+2018-10-20 12:56:41,342 INFO:     Finished generation in 1588.86 seconds. 
+2018-10-20 12:56:41,345 INFO:     Mean reward: 182.66 
+2018-10-20 12:56:41,347 INFO:     Max reward:  303.33 
+2018-10-20 12:56:41,348 INFO:     Reward std:  58.54 
+2018-10-20 12:56:41,350 INFO:     Saving model of best agent and CMA state 
+2018-10-20 12:56:42,547 INFO:      
+2018-10-20 12:56:42,562 INFO:     Evaluating 32 canidates of generation 38 
+2018-10-20 13:21:33,035 INFO:     Finished generation in 1490.55 seconds. 
+2018-10-20 13:21:33,036 INFO:     Mean reward: 192.50 
+2018-10-20 13:21:33,037 INFO:     Max reward:  331.67 
+2018-10-20 13:21:33,038 INFO:     Reward std:  59.94 
+2018-10-20 13:21:33,039 INFO:     Saving model of best agent and CMA state 
+2018-10-20 13:21:33,564 INFO:      
+2018-10-20 13:21:33,566 INFO:     Evaluating 32 canidates of generation 39 
+2018-10-20 13:46:46,369 INFO:     Finished generation in 1512.81 seconds. 
+2018-10-20 13:46:46,371 INFO:     Mean reward: 191.51 
+2018-10-20 13:46:46,373 INFO:     Max reward:  376.67 
+2018-10-20 13:46:46,376 INFO:     Reward std:  68.47 
+2018-10-20 13:46:46,378 INFO:     Saving model of best agent and CMA state 
+2018-10-20 13:46:49,880 INFO:      
+2018-10-20 13:46:49,884 INFO:     Evaluating 32 canidates of generation 40 
+2018-10-20 14:13:54,729 INFO:     Finished generation in 1627.04 seconds. 
+2018-10-20 14:13:54,730 INFO:     Mean reward: 203.85 
+2018-10-20 14:13:54,731 INFO:     Max reward:  346.67 
+2018-10-20 14:13:54,732 INFO:     Reward std:  71.99 
+2018-10-20 14:13:54,733 INFO:     Saving model of best agent and CMA state 
+2018-10-20 14:13:55,531 INFO:      
+2018-10-20 14:13:55,534 INFO:     Evaluating 32 canidates of generation 41 
+2018-10-20 14:41:36,033 INFO:     Finished generation in 1660.51 seconds. 
+2018-10-20 14:41:36,035 INFO:     Mean reward: 215.89 
+2018-10-20 14:41:36,037 INFO:     Max reward:  391.67 
+2018-10-20 14:41:36,039 INFO:     Reward std:  74.37 
+2018-10-20 14:41:36,041 INFO:     Saving model of best agent and CMA state 
+2018-10-20 14:41:37,659 INFO:      
+2018-10-20 14:41:37,670 INFO:     Evaluating 32 canidates of generation 42 
+2018-10-20 15:06:39,850 INFO:     Finished generation in 1502.21 seconds. 
+2018-10-20 15:06:39,852 INFO:     Mean reward: 182.03 
+2018-10-20 15:06:39,853 INFO:     Max reward:  440.00 
+2018-10-20 15:06:39,854 INFO:     Reward std:  71.68 
+2018-10-20 15:06:39,855 INFO:     Saving model of best agent and CMA state 
+2018-10-20 15:06:40,177 INFO:      
+2018-10-20 15:06:40,180 INFO:     Evaluating 32 canidates of generation 43 
+2018-10-20 15:34:16,198 INFO:     Finished generation in 1656.09 seconds. 
+2018-10-20 15:34:16,201 INFO:     Mean reward: 205.78 
+2018-10-20 15:34:16,203 INFO:     Max reward:  358.33 
+2018-10-20 15:34:16,204 INFO:     Reward std:  74.11 
+2018-10-20 15:34:16,206 INFO:     Saving model of best agent and CMA state 
+2018-10-20 15:34:16,860 INFO:      
+2018-10-20 15:34:16,862 INFO:     Evaluating 32 canidates of generation 44 
+2018-10-20 15:59:31,802 INFO:     Finished generation in 1514.97 seconds. 
+2018-10-20 15:59:31,804 INFO:     Mean reward: 196.82 
+2018-10-20 15:59:31,806 INFO:     Max reward:  455.00 
+2018-10-20 15:59:31,812 INFO:     Reward std:  81.06 
+2018-10-20 15:59:31,814 INFO:     Saving model of best agent and CMA state 
+2018-10-20 15:59:32,724 INFO:      
+2018-10-20 15:59:32,739 INFO:     Evaluating 32 canidates of generation 45 
+2018-10-20 16:26:53,806 INFO:     Finished generation in 1641.13 seconds. 
+2018-10-20 16:26:53,807 INFO:     Mean reward: 207.40 
+2018-10-20 16:26:53,808 INFO:     Max reward:  391.67 
+2018-10-20 16:26:53,810 INFO:     Reward std:  59.11 
+2018-10-20 16:26:53,811 INFO:     Saving model of best agent and CMA state 
+2018-10-20 16:26:54,326 INFO:      
+2018-10-20 16:26:54,328 INFO:     Evaluating 32 canidates of generation 46 
+2018-10-20 16:54:09,757 INFO:     Finished generation in 1635.50 seconds. 
+2018-10-20 16:54:09,760 INFO:     Mean reward: 211.56 
+2018-10-20 16:54:09,763 INFO:     Max reward:  345.00 
+2018-10-20 16:54:09,766 INFO:     Reward std:  66.57 
+2018-10-20 16:54:09,768 INFO:     Saving model of best agent and CMA state 
+2018-10-20 16:54:10,937 INFO:      
+2018-10-20 16:54:10,951 INFO:     Evaluating 32 canidates of generation 47 
+2018-10-20 17:16:01,435 INFO:     Finished generation in 1310.54 seconds. 
+2018-10-20 17:16:01,436 INFO:     Mean reward: 207.76 
+2018-10-20 17:16:01,437 INFO:     Max reward:  343.33 
+2018-10-20 17:16:01,438 INFO:     Reward std:  58.20 
+2018-10-20 17:16:01,439 INFO:     Saving model of best agent and CMA state 
+2018-10-20 17:16:01,966 INFO:      
+2018-10-20 17:16:01,967 INFO:     Evaluating 32 canidates of generation 48 
+2018-10-20 17:28:26,489 INFO:     Finished generation in 744.53 seconds. 
+2018-10-20 17:28:26,491 INFO:     Mean reward: 206.67 
+2018-10-20 17:28:26,492 INFO:     Max reward:  368.33 
+2018-10-20 17:28:26,493 INFO:     Reward std:  55.15 
+2018-10-20 17:28:26,494 INFO:     Saving model of best agent and CMA state 
+2018-10-20 17:28:27,122 INFO:      
+2018-10-20 17:28:27,123 INFO:     Evaluating 32 canidates of generation 49 
+2018-10-20 17:40:57,617 INFO:     Finished generation in 750.57 seconds. 
+2018-10-20 17:40:57,618 INFO:     Mean reward: 204.43 
+2018-10-20 17:40:57,619 INFO:     Max reward:  290.00 
+2018-10-20 17:40:57,620 INFO:     Reward std:  50.46 
+2018-10-20 17:40:57,621 INFO:     Saving model of best agent and CMA state 
+2018-10-20 17:40:58,556 INFO:      
+2018-10-20 17:40:58,558 INFO:     Evaluating 32 canidates of generation 50 
+2018-10-20 17:53:20,938 INFO:     Finished generation in 742.39 seconds. 
+2018-10-20 17:53:20,940 INFO:     Mean reward: 200.36 
+2018-10-20 17:53:20,941 INFO:     Max reward:  401.67 
+2018-10-20 17:53:20,942 INFO:     Reward std:  73.13 
+2018-10-20 17:53:20,943 INFO:     Saving model of best agent and CMA state 
+2018-10-20 17:53:21,601 INFO:      
+2018-10-20 17:53:21,603 INFO:     Evaluating 32 canidates of generation 51 
+2018-10-20 18:21:09,352 INFO:     Finished generation in 1667.76 seconds. 
+2018-10-20 18:21:09,358 INFO:     Mean reward: 210.73 
+2018-10-20 18:21:09,359 INFO:     Max reward:  410.00 
+2018-10-20 18:21:09,361 INFO:     Reward std:  70.21 
+2018-10-20 18:21:09,366 INFO:     Saving model of best agent and CMA state 
+2018-10-20 18:21:13,396 INFO:      
+2018-10-20 18:21:13,410 INFO:     Evaluating 32 canidates of generation 52 
+2018-10-20 18:52:04,338 INFO:     Finished generation in 1853.11 seconds. 
+2018-10-20 18:52:04,341 INFO:     Mean reward: 235.99 
+2018-10-20 18:52:04,344 INFO:     Max reward:  445.00 
+2018-10-20 18:52:04,346 INFO:     Reward std:  71.25 
+2018-10-20 18:52:04,348 INFO:     Saving model of best agent and CMA state 
+2018-10-20 18:52:05,008 INFO:      
+2018-10-20 18:52:05,019 INFO:     Evaluating 32 canidates of generation 53 
+2018-10-20 19:19:46,970 INFO:     Finished generation in 1661.99 seconds. 
+2018-10-20 19:19:46,972 INFO:     Mean reward: 208.07 
+2018-10-20 19:19:46,977 INFO:     Max reward:  540.00 
+2018-10-20 19:19:46,979 INFO:     Reward std:  93.56 
+2018-10-20 19:19:46,981 INFO:     Saving model of best agent and CMA state 
+2018-10-20 19:19:47,812 INFO:      
+2018-10-20 19:19:47,825 INFO:     Evaluating 32 canidates of generation 54 
+2018-10-20 19:48:35,788 INFO:     Finished generation in 1728.03 seconds. 
+2018-10-20 19:48:35,790 INFO:     Mean reward: 203.23 
+2018-10-20 19:48:35,792 INFO:     Max reward:  306.67 
+2018-10-20 19:48:35,793 INFO:     Reward std:  58.83 
+2018-10-20 19:48:35,797 INFO:     Saving model of best agent and CMA state 
+2018-10-20 19:48:38,864 INFO:      
+2018-10-20 19:48:38,869 INFO:     Evaluating 32 canidates of generation 55 
+2018-10-20 20:17:10,973 INFO:     Finished generation in 1714.33 seconds. 
+2018-10-20 20:17:10,975 INFO:     Mean reward: 206.04 
+2018-10-20 20:17:10,977 INFO:     Max reward:  416.67 
+2018-10-20 20:17:10,980 INFO:     Reward std:  60.53 
+2018-10-20 20:17:10,982 INFO:     Saving model of best agent and CMA state 
+2018-10-20 20:17:11,988 INFO:      
+2018-10-20 20:17:12,004 INFO:     Evaluating 32 canidates of generation 56 
+2018-10-20 20:44:17,471 INFO:     Finished generation in 1625.53 seconds. 
+2018-10-20 20:44:17,472 INFO:     Mean reward: 206.15 
+2018-10-20 20:44:17,473 INFO:     Max reward:  373.33 
+2018-10-20 20:44:17,475 INFO:     Reward std:  72.28 
+2018-10-20 20:44:17,476 INFO:     Saving model of best agent and CMA state 
+2018-10-20 20:44:17,911 INFO:      
+2018-10-20 20:44:17,913 INFO:     Evaluating 32 canidates of generation 57 
+2018-10-20 21:13:34,724 INFO:     Finished generation in 1756.82 seconds. 
+2018-10-20 21:13:34,725 INFO:     Mean reward: 208.85 
+2018-10-20 21:13:34,726 INFO:     Max reward:  433.33 
+2018-10-20 21:13:34,727 INFO:     Reward std:  75.86 
+2018-10-20 21:13:34,728 INFO:     Saving model of best agent and CMA state 
+2018-10-20 21:13:35,279 INFO:      
+2018-10-20 21:13:35,281 INFO:     Evaluating 32 canidates of generation 58 
+2018-10-20 21:41:55,759 INFO:     Finished generation in 1700.55 seconds. 
+2018-10-20 21:41:55,761 INFO:     Mean reward: 200.05 
+2018-10-20 21:41:55,765 INFO:     Max reward:  330.00 
+2018-10-20 21:41:55,767 INFO:     Reward std:  65.68 
+2018-10-20 21:41:55,770 INFO:     Saving model of best agent and CMA state 
+2018-10-20 21:41:57,188 INFO:      
+2018-10-20 21:41:57,197 INFO:     Evaluating 32 canidates of generation 59 
+2018-10-20 22:11:37,012 INFO:     Finished generation in 1779.86 seconds. 
+2018-10-20 22:11:37,015 INFO:     Mean reward: 224.74 
+2018-10-20 22:11:37,017 INFO:     Max reward:  413.33 
+2018-10-20 22:11:37,019 INFO:     Reward std:  77.44 
+2018-10-20 22:11:37,020 INFO:     Saving model of best agent and CMA state 
+2018-10-20 22:11:38,224 INFO:      
+2018-10-20 22:11:38,236 INFO:     Evaluating 32 canidates of generation 60 
+2018-10-20 22:38:51,991 INFO:     Finished generation in 1633.79 seconds. 
+2018-10-20 22:38:51,993 INFO:     Mean reward: 210.21 
+2018-10-20 22:38:51,995 INFO:     Max reward:  388.33 
+2018-10-20 22:38:51,998 INFO:     Reward std:  74.44 
+2018-10-20 22:38:52,007 INFO:     Saving model of best agent and CMA state 
+2018-10-20 22:38:55,508 INFO:      
+2018-10-20 22:38:55,519 INFO:     Evaluating 32 canidates of generation 61 
+2018-10-20 23:07:40,117 INFO:     Finished generation in 1726.79 seconds. 
+2018-10-20 23:07:40,118 INFO:     Mean reward: 217.66 
+2018-10-20 23:07:40,119 INFO:     Max reward:  353.33 
+2018-10-20 23:07:40,120 INFO:     Reward std:  59.97 
+2018-10-20 23:07:40,121 INFO:     Saving model of best agent and CMA state 
+2018-10-20 23:07:40,806 INFO:      
+2018-10-20 23:07:40,808 INFO:     Evaluating 32 canidates of generation 62 
+2018-10-20 23:34:35,122 INFO:     Finished generation in 1614.33 seconds. 
+2018-10-20 23:34:35,124 INFO:     Mean reward: 204.74 
+2018-10-20 23:34:35,126 INFO:     Max reward:  451.67 
+2018-10-20 23:34:35,128 INFO:     Reward std:  76.00 
+2018-10-20 23:34:35,129 INFO:     Saving model of best agent and CMA state 
+2018-10-20 23:34:35,872 INFO:      
+2018-10-20 23:34:35,880 INFO:     Evaluating 32 canidates of generation 63 
+2018-10-21 00:01:55,503 INFO:     Finished generation in 1639.69 seconds. 
+2018-10-21 00:01:55,505 INFO:     Mean reward: 210.62 
+2018-10-21 00:01:55,508 INFO:     Max reward:  388.33 
+2018-10-21 00:01:55,510 INFO:     Reward std:  63.08 
+2018-10-21 00:01:55,511 INFO:     Saving model of best agent and CMA state 
+2018-10-21 00:01:59,115 INFO:      
+2018-10-21 00:01:59,122 INFO:     Evaluating 32 canidates of generation 64 
+2018-10-21 00:30:11,362 INFO:     Finished generation in 1695.14 seconds. 
+2018-10-21 00:30:11,364 INFO:     Mean reward: 222.08 
+2018-10-21 00:30:11,368 INFO:     Max reward:  376.67 
+2018-10-21 00:30:11,370 INFO:     Reward std:  66.15 
+2018-10-21 00:30:11,373 INFO:     Saving model of best agent and CMA state 
+2018-10-21 00:30:12,345 INFO:      
+2018-10-21 00:30:12,372 INFO:     Evaluating 32 canidates of generation 65 
+2018-10-21 00:57:38,997 INFO:     Finished generation in 1646.72 seconds. 
+2018-10-21 00:57:38,999 INFO:     Mean reward: 189.22 
+2018-10-21 00:57:39,002 INFO:     Max reward:  346.67 
+2018-10-21 00:57:39,005 INFO:     Reward std:  64.34 
+2018-10-21 00:57:39,010 INFO:     Saving model of best agent and CMA state 
+2018-10-21 00:57:40,011 INFO:      
+2018-10-21 00:57:40,022 INFO:     Evaluating 32 canidates of generation 66 
+2018-10-21 01:26:52,454 INFO:     Finished generation in 1752.50 seconds. 
+2018-10-21 01:26:52,456 INFO:     Mean reward: 225.89 
+2018-10-21 01:26:52,458 INFO:     Max reward:  483.33 
+2018-10-21 01:26:52,461 INFO:     Reward std:  79.53 
+2018-10-21 01:26:52,467 INFO:     Saving model of best agent and CMA state 
+2018-10-21 01:26:55,576 INFO:      
+2018-10-21 01:26:55,587 INFO:     Evaluating 32 canidates of generation 67 
+2018-10-21 01:53:43,009 INFO:     Finished generation in 1609.54 seconds. 
+2018-10-21 01:53:43,012 INFO:     Mean reward: 188.12 
+2018-10-21 01:53:43,015 INFO:     Max reward:  370.00 
+2018-10-21 01:53:43,018 INFO:     Reward std:  65.85 
+2018-10-21 01:53:43,020 INFO:     Saving model of best agent and CMA state 
+2018-10-21 01:53:44,200 INFO:      
+2018-10-21 01:53:44,211 INFO:     Evaluating 32 canidates of generation 68 
+2018-10-21 02:20:00,132 INFO:     Finished generation in 1575.97 seconds. 
+2018-10-21 02:20:00,133 INFO:     Mean reward: 196.15 
+2018-10-21 02:20:00,134 INFO:     Max reward:  338.33 
+2018-10-21 02:20:00,135 INFO:     Reward std:  68.13 
+2018-10-21 02:20:00,136 INFO:     Saving model of best agent and CMA state 
+2018-10-21 02:20:00,676 INFO:      
+2018-10-21 02:20:00,677 INFO:     Evaluating 32 canidates of generation 69 
+2018-10-21 02:47:18,157 INFO:     Finished generation in 1637.49 seconds. 
+2018-10-21 02:47:18,159 INFO:     Mean reward: 204.64 
+2018-10-21 02:47:18,161 INFO:     Max reward:  395.00 
+2018-10-21 02:47:18,166 INFO:     Reward std:  70.20 
+2018-10-21 02:47:18,168 INFO:     Saving model of best agent and CMA state 
+2018-10-21 02:47:21,812 INFO:      
+2018-10-21 02:47:21,816 INFO:     Evaluating 32 canidates of generation 70 
+2018-10-21 03:15:53,454 INFO:     Finished generation in 1713.91 seconds. 
+2018-10-21 03:15:53,457 INFO:     Mean reward: 213.07 
+2018-10-21 03:15:53,459 INFO:     Max reward:  345.00 
+2018-10-21 03:15:53,460 INFO:     Reward std:  67.86 
+2018-10-21 03:15:53,462 INFO:     Saving model of best agent and CMA state 
+2018-10-21 03:15:55,020 INFO:      
+2018-10-21 03:15:55,027 INFO:     Evaluating 32 canidates of generation 71 
+2018-10-21 03:44:27,180 INFO:     Finished generation in 1712.19 seconds. 
+2018-10-21 03:44:27,182 INFO:     Mean reward: 206.93 
+2018-10-21 03:44:27,184 INFO:     Max reward:  418.33 
+2018-10-21 03:44:27,185 INFO:     Reward std:  78.28 
+2018-10-21 03:44:27,187 INFO:     Saving model of best agent and CMA state 
+2018-10-21 03:44:28,711 INFO:      
+2018-10-21 03:44:28,722 INFO:     Evaluating 32 canidates of generation 72 
+2018-10-21 04:12:09,392 INFO:     Finished generation in 1660.70 seconds. 
+2018-10-21 04:12:09,395 INFO:     Mean reward: 205.83 
+2018-10-21 04:12:09,397 INFO:     Max reward:  350.00 
+2018-10-21 04:12:09,401 INFO:     Reward std:  64.60 
+2018-10-21 04:12:09,405 INFO:     Saving model of best agent and CMA state 
+2018-10-21 04:12:12,285 INFO:      
+2018-10-21 04:12:12,291 INFO:     Evaluating 32 canidates of generation 73 
+2018-10-21 04:39:36,890 INFO:     Finished generation in 1646.81 seconds. 
+2018-10-21 04:39:36,892 INFO:     Mean reward: 195.36 
+2018-10-21 04:39:36,895 INFO:     Max reward:  386.67 
+2018-10-21 04:39:36,897 INFO:     Reward std:  65.74 
+2018-10-21 04:39:36,899 INFO:     Saving model of best agent and CMA state 
+2018-10-21 04:39:37,547 INFO:      
+2018-10-21 04:39:37,549 INFO:     Evaluating 32 canidates of generation 74 
+2018-10-21 05:08:10,990 INFO:     Finished generation in 1713.45 seconds. 
+2018-10-21 05:08:10,992 INFO:     Mean reward: 218.28 
+2018-10-21 05:08:10,996 INFO:     Max reward:  413.33 
+2018-10-21 05:08:10,999 INFO:     Reward std:  85.87 
+2018-10-21 05:08:11,001 INFO:     Saving model of best agent and CMA state 
+2018-10-21 05:08:11,859 INFO:      
+2018-10-21 05:08:11,864 INFO:     Evaluating 32 canidates of generation 75 
+2018-10-21 05:36:10,625 INFO:     Finished generation in 1678.82 seconds. 
+2018-10-21 05:36:10,628 INFO:     Mean reward: 204.58 
+2018-10-21 05:36:10,631 INFO:     Max reward:  393.33 
+2018-10-21 05:36:10,634 INFO:     Reward std:  60.09 
+2018-10-21 05:36:10,639 INFO:     Saving model of best agent and CMA state 
+2018-10-21 05:36:13,827 INFO:      
+2018-10-21 05:36:13,832 INFO:     Evaluating 32 canidates of generation 76 
+2018-10-21 06:04:25,343 INFO:     Finished generation in 1693.73 seconds. 
+2018-10-21 06:04:25,345 INFO:     Mean reward: 198.54 
+2018-10-21 06:04:25,347 INFO:     Max reward:  398.33 
+2018-10-21 06:04:25,349 INFO:     Reward std:  75.30 
+2018-10-21 06:04:25,350 INFO:     Saving model of best agent and CMA state 
+2018-10-21 06:04:26,267 INFO:      
+2018-10-21 06:04:26,270 INFO:     Evaluating 32 canidates of generation 77 
+2018-10-21 06:31:14,822 INFO:     Finished generation in 1608.57 seconds. 
+2018-10-21 06:31:14,825 INFO:     Mean reward: 205.99 
+2018-10-21 06:31:14,827 INFO:     Max reward:  378.33 
+2018-10-21 06:31:14,831 INFO:     Reward std:  60.40 
+2018-10-21 06:31:14,833 INFO:     Saving model of best agent and CMA state 
+2018-10-21 06:31:16,068 INFO:      
+2018-10-21 06:31:16,075 INFO:     Evaluating 32 canidates of generation 78 
+2018-10-21 06:59:57,654 INFO:     Finished generation in 1721.63 seconds. 
+2018-10-21 06:59:57,657 INFO:     Mean reward: 217.40 
+2018-10-21 06:59:57,659 INFO:     Max reward:  361.67 
+2018-10-21 06:59:57,661 INFO:     Reward std:  64.46 
+2018-10-21 06:59:57,662 INFO:     Saving model of best agent and CMA state 
+2018-10-21 07:00:01,363 INFO:      
+2018-10-21 07:00:01,368 INFO:     Evaluating 32 canidates of generation 79 
+2018-10-21 07:28:34,175 INFO:     Finished generation in 1715.33 seconds. 
+2018-10-21 07:28:34,177 INFO:     Mean reward: 217.97 
+2018-10-21 07:28:34,179 INFO:     Max reward:  495.00 
+2018-10-21 07:28:34,181 INFO:     Reward std:  85.52 
+2018-10-21 07:28:34,185 INFO:     Saving model of best agent and CMA state 
+2018-10-21 07:28:35,616 INFO:      
+2018-10-21 07:28:35,620 INFO:     Evaluating 32 canidates of generation 80 
+2018-10-21 07:57:34,253 INFO:     Finished generation in 1738.68 seconds. 
+2018-10-21 07:57:34,256 INFO:     Mean reward: 222.29 
+2018-10-21 07:57:34,259 INFO:     Max reward:  365.00 
+2018-10-21 07:57:34,262 INFO:     Reward std:  70.63 
+2018-10-21 07:57:34,266 INFO:     Saving model of best agent and CMA state 
+2018-10-21 07:57:35,764 INFO:      
+2018-10-21 07:57:35,773 INFO:     Evaluating 32 canidates of generation 81 
+2018-10-21 08:25:16,759 INFO:     Finished generation in 1661.02 seconds. 
+2018-10-21 08:25:16,760 INFO:     Mean reward: 214.58 
+2018-10-21 08:25:16,763 INFO:     Max reward:  386.67 
+2018-10-21 08:25:16,765 INFO:     Reward std:  70.22 
+2018-10-21 08:25:16,770 INFO:     Saving model of best agent and CMA state 
+2018-10-21 08:25:20,893 INFO:      
+2018-10-21 08:25:20,907 INFO:     Evaluating 32 canidates of generation 82 
+2018-10-21 08:53:15,741 INFO:     Finished generation in 1677.38 seconds. 
+2018-10-21 08:53:15,744 INFO:     Mean reward: 194.53 
+2018-10-21 08:53:15,745 INFO:     Max reward:  306.67 
+2018-10-21 08:53:15,749 INFO:     Reward std:  56.43 
+2018-10-21 08:53:15,752 INFO:     Saving model of best agent and CMA state 
+2018-10-21 08:53:16,493 INFO:      
+2018-10-21 08:53:16,497 INFO:     Evaluating 32 canidates of generation 83 
+2018-10-21 09:24:05,033 INFO:     Finished generation in 1848.61 seconds. 
+2018-10-21 09:24:05,035 INFO:     Mean reward: 244.22 
+2018-10-21 09:24:05,037 INFO:     Max reward:  461.67 
+2018-10-21 09:24:05,041 INFO:     Reward std:  80.23 
+2018-10-21 09:24:05,043 INFO:     Saving model of best agent and CMA state 
+2018-10-21 09:24:05,840 INFO:      
+2018-10-21 09:24:05,854 INFO:     Evaluating 32 canidates of generation 84 
+2018-10-21 09:51:14,201 INFO:     Finished generation in 1628.39 seconds. 
+2018-10-21 09:51:14,204 INFO:     Mean reward: 208.49 
+2018-10-21 09:51:14,206 INFO:     Max reward:  320.00 
+2018-10-21 09:51:14,207 INFO:     Reward std:  53.12 
+2018-10-21 09:51:14,209 INFO:     Saving model of best agent and CMA state 
+2018-10-21 09:51:17,227 INFO:      
+2018-10-21 09:51:17,240 INFO:     Evaluating 32 canidates of generation 85 
+2018-10-21 10:20:02,816 INFO:     Finished generation in 1727.78 seconds. 
+2018-10-21 10:20:02,819 INFO:     Mean reward: 214.69 
+2018-10-21 10:20:02,823 INFO:     Max reward:  385.00 
+2018-10-21 10:20:02,825 INFO:     Reward std:  75.58 
+2018-10-21 10:20:02,828 INFO:     Saving model of best agent and CMA state 
+2018-10-21 10:20:03,864 INFO:      
+2018-10-21 10:20:03,875 INFO:     Evaluating 32 canidates of generation 86 
+2018-10-21 10:49:40,306 INFO:     Finished generation in 1776.49 seconds. 
+2018-10-21 10:49:40,308 INFO:     Mean reward: 220.83 
+2018-10-21 10:49:40,311 INFO:     Max reward:  630.00 
+2018-10-21 10:49:40,314 INFO:     Reward std:  99.79 
+2018-10-21 10:49:40,316 INFO:     Saving model of best agent and CMA state 
+2018-10-21 10:49:41,432 INFO:      
+2018-10-21 10:49:41,457 INFO:     Evaluating 32 canidates of generation 87 
+2018-10-21 11:17:17,588 INFO:     Finished generation in 1656.18 seconds. 
+2018-10-21 11:17:17,591 INFO:     Mean reward: 205.47 
+2018-10-21 11:17:17,593 INFO:     Max reward:  441.67 
+2018-10-21 11:17:17,595 INFO:     Reward std:  70.93 
+2018-10-21 11:17:17,596 INFO:     Saving model of best agent and CMA state 
+2018-10-21 11:17:20,587 INFO:      
+2018-10-21 11:17:20,610 INFO:     Evaluating 32 canidates of generation 88 
+2018-10-21 11:44:07,960 INFO:     Finished generation in 1609.18 seconds. 
+2018-10-21 11:44:07,964 INFO:     Mean reward: 196.67 
+2018-10-21 11:44:07,968 INFO:     Max reward:  326.67 
+2018-10-21 11:44:07,970 INFO:     Reward std:  61.24 
+2018-10-21 11:44:07,974 INFO:     Saving model of best agent and CMA state 
+2018-10-21 11:44:09,336 INFO:      
+2018-10-21 11:44:09,350 INFO:     Evaluating 32 canidates of generation 89 
+2018-10-21 12:12:01,672 INFO:     Finished generation in 1672.36 seconds. 
+2018-10-21 12:12:01,675 INFO:     Mean reward: 210.31 
+2018-10-21 12:12:01,677 INFO:     Max reward:  338.33 
+2018-10-21 12:12:01,681 INFO:     Reward std:  61.79 
+2018-10-21 12:12:01,685 INFO:     Saving model of best agent and CMA state 
+2018-10-21 12:12:03,168 INFO:      
+2018-10-21 12:12:03,183 INFO:     Evaluating 32 canidates of generation 90 
+2018-10-21 12:42:14,219 INFO:     Finished generation in 1811.08 seconds. 
+2018-10-21 12:42:14,222 INFO:     Mean reward: 228.28 
+2018-10-21 12:42:14,224 INFO:     Max reward:  351.67 
+2018-10-21 12:42:14,226 INFO:     Reward std:  69.37 
+2018-10-21 12:42:14,228 INFO:     Saving model of best agent and CMA state 
+2018-10-21 12:42:18,141 INFO:      
+2018-10-21 12:42:18,143 INFO:     Evaluating 32 canidates of generation 91 
+2018-10-21 13:09:18,879 INFO:     Finished generation in 1622.63 seconds. 
+2018-10-21 13:09:18,881 INFO:     Mean reward: 206.25 
+2018-10-21 13:09:18,883 INFO:     Max reward:  385.00 
+2018-10-21 13:09:18,885 INFO:     Reward std:  65.50 
+2018-10-21 13:09:18,887 INFO:     Saving model of best agent and CMA state 
+2018-10-21 13:09:20,359 INFO:      
+2018-10-21 13:09:20,368 INFO:     Evaluating 32 canidates of generation 92 
+2018-10-21 13:37:11,525 INFO:     Finished generation in 1671.19 seconds. 
+2018-10-21 13:37:11,528 INFO:     Mean reward: 201.51 
+2018-10-21 13:37:11,531 INFO:     Max reward:  388.33 
+2018-10-21 13:37:11,534 INFO:     Reward std:  61.01 
+2018-10-21 13:37:11,537 INFO:     Saving model of best agent and CMA state 
+2018-10-21 13:37:12,296 INFO:      
+2018-10-21 13:37:12,313 INFO:     Evaluating 32 canidates of generation 93 
+2018-10-21 14:04:37,875 INFO:     Finished generation in 1645.61 seconds. 
+2018-10-21 14:04:37,877 INFO:     Mean reward: 204.32 
+2018-10-21 14:04:37,879 INFO:     Max reward:  395.00 
+2018-10-21 14:04:37,880 INFO:     Reward std:  62.37 
+2018-10-21 14:04:37,882 INFO:     Saving model of best agent and CMA state 
+2018-10-21 14:04:38,860 INFO:      
+2018-10-21 14:04:38,872 INFO:     Evaluating 32 canidates of generation 94 
+2018-10-21 14:34:11,907 INFO:     Finished generation in 1773.66 seconds. 
+2018-10-21 14:34:11,908 INFO:     Mean reward: 242.66 
+2018-10-21 14:34:11,910 INFO:     Max reward:  571.67 
+2018-10-21 14:34:11,911 INFO:     Reward std:  97.54 
+2018-10-21 14:34:11,912 INFO:     Saving model of best agent and CMA state 
+2018-10-21 14:34:12,275 INFO:      
+2018-10-21 14:34:12,276 INFO:     Evaluating 32 canidates of generation 95 
+2018-10-21 15:02:48,381 INFO:     Finished generation in 1716.12 seconds. 
+2018-10-21 15:02:48,383 INFO:     Mean reward: 207.55 
+2018-10-21 15:02:48,386 INFO:     Max reward:  413.33 
+2018-10-21 15:02:48,389 INFO:     Reward std:  56.49 
+2018-10-21 15:02:48,393 INFO:     Saving model of best agent and CMA state 
+2018-10-21 15:02:49,387 INFO:      
+2018-10-21 15:02:49,398 INFO:     Evaluating 32 canidates of generation 96 
+2018-10-21 15:30:34,934 INFO:     Finished generation in 1665.57 seconds. 
+2018-10-21 15:30:34,937 INFO:     Mean reward: 205.16 
+2018-10-21 15:30:34,940 INFO:     Max reward:  365.00 
+2018-10-21 15:30:34,942 INFO:     Reward std:  61.47 
+2018-10-21 15:30:34,945 INFO:     Saving model of best agent and CMA state 
+2018-10-21 15:30:37,944 INFO:      
+2018-10-21 15:30:37,959 INFO:     Evaluating 32 canidates of generation 97 
+2018-10-21 15:57:08,728 INFO:     Finished generation in 1592.73 seconds. 
+2018-10-21 15:57:08,731 INFO:     Mean reward: 201.61 
+2018-10-21 15:57:08,735 INFO:     Max reward:  310.00 
+2018-10-21 15:57:08,738 INFO:     Reward std:  51.39 
+2018-10-21 15:57:08,742 INFO:     Saving model of best agent and CMA state 
+2018-10-21 15:57:10,012 INFO:      
+2018-10-21 15:57:10,022 INFO:     Evaluating 32 canidates of generation 98 
+2018-10-21 16:26:32,513 INFO:     Finished generation in 1762.54 seconds. 
+2018-10-21 16:26:32,514 INFO:     Mean reward: 209.58 
+2018-10-21 16:26:32,515 INFO:     Max reward:  366.67 
+2018-10-21 16:26:32,516 INFO:     Reward std:  66.31 
+2018-10-21 16:26:32,517 INFO:     Saving model of best agent and CMA state 
+2018-10-21 16:26:33,043 INFO:      
+2018-10-21 16:26:33,045 INFO:     Evaluating 32 canidates of generation 99 
+2018-10-21 16:55:35,710 INFO:     Finished generation in 1742.68 seconds. 
+2018-10-21 16:55:35,712 INFO:     Mean reward: 213.75 
+2018-10-21 16:55:35,713 INFO:     Max reward:  376.67 
+2018-10-21 16:55:35,716 INFO:     Reward std:  74.03 
+2018-10-21 16:55:35,717 INFO:     Saving model of best agent and CMA state 
+2018-10-21 16:55:38,682 INFO:      
+2018-10-21 16:55:38,684 INFO:     Evaluating 32 canidates of generation 100 
+2018-10-21 17:24:00,203 INFO:     Finished generation in 1703.68 seconds. 
+2018-10-21 17:24:00,206 INFO:     Mean reward: 215.62 
+2018-10-21 17:24:00,208 INFO:     Max reward:  370.00 
+2018-10-21 17:24:00,213 INFO:     Reward std:  69.13 
+2018-10-21 17:24:00,216 INFO:     Saving model of best agent and CMA state 
+2018-10-21 17:24:01,882 INFO:      
+2018-10-21 17:24:01,904 INFO:     Evaluating 32 canidates of generation 101 
+2018-10-21 17:49:14,090 INFO:     Finished generation in 1512.24 seconds. 
+2018-10-21 17:49:14,091 INFO:     Mean reward: 192.45 
+2018-10-21 17:49:14,092 INFO:     Max reward:  335.00 
+2018-10-21 17:49:14,093 INFO:     Reward std:  59.58 
+2018-10-21 17:49:14,094 INFO:     Saving model of best agent and CMA state 
+2018-10-21 17:49:14,816 INFO:      
+2018-10-21 17:49:14,818 INFO:     Evaluating 32 canidates of generation 102 
+2018-10-21 18:15:45,053 INFO:     Finished generation in 1590.25 seconds. 
+2018-10-21 18:15:45,055 INFO:     Mean reward: 209.22 
+2018-10-21 18:15:45,056 INFO:     Max reward:  506.67 
+2018-10-21 18:15:45,057 INFO:     Reward std:  91.98 
+2018-10-21 18:15:45,058 INFO:     Saving model of best agent and CMA state 
+2018-10-21 18:15:47,260 INFO:      
+2018-10-21 18:15:47,273 INFO:     Evaluating 32 canidates of generation 103 
+2018-10-21 18:45:01,535 INFO:     Finished generation in 1756.19 seconds. 
+2018-10-21 18:45:01,538 INFO:     Mean reward: 229.53 
+2018-10-21 18:45:01,540 INFO:     Max reward:  371.67 
+2018-10-21 18:45:01,541 INFO:     Reward std:  70.68 
+2018-10-21 18:45:01,543 INFO:     Saving model of best agent and CMA state 
+2018-10-21 18:45:02,359 INFO:      
+2018-10-21 18:45:02,362 INFO:     Evaluating 32 canidates of generation 104 
+2018-10-21 19:08:31,068 INFO:     Finished generation in 1408.75 seconds. 
+2018-10-21 19:08:31,070 INFO:     Mean reward: 231.35 
+2018-10-21 19:08:31,070 INFO:     Max reward:  501.67 
+2018-10-21 19:08:31,071 INFO:     Reward std:  77.15 
+2018-10-21 19:08:31,072 INFO:     Saving model of best agent and CMA state 
+2018-10-21 19:08:31,423 INFO:      
+2018-10-21 19:08:31,426 INFO:     Evaluating 32 canidates of generation 105 
+2018-10-21 19:20:23,803 INFO:     Finished generation in 712.39 seconds. 
+2018-10-21 19:20:23,804 INFO:     Mean reward: 210.94 
+2018-10-21 19:20:23,805 INFO:     Max reward:  433.33 
+2018-10-21 19:20:23,806 INFO:     Reward std:  85.43 
+2018-10-21 19:20:23,807 INFO:     Saving model of best agent and CMA state 
+2018-10-21 19:20:24,293 INFO:      
+2018-10-21 19:20:24,295 INFO:     Evaluating 32 canidates of generation 106 
+2018-10-21 19:42:06,275 INFO:     Finished generation in 1302.05 seconds. 
+2018-10-21 19:42:06,277 INFO:     Mean reward: 184.06 
+2018-10-21 19:42:06,279 INFO:     Max reward:  340.00 
+2018-10-21 19:42:06,281 INFO:     Reward std:  61.93 
+2018-10-21 19:42:06,283 INFO:     Saving model of best agent and CMA state 
+2018-10-21 19:42:07,239 INFO:      
+2018-10-21 19:42:07,251 INFO:     Evaluating 32 canidates of generation 107 
+2018-10-21 20:09:07,153 INFO:     Finished generation in 1619.95 seconds. 
+2018-10-21 20:09:07,155 INFO:     Mean reward: 221.98 
+2018-10-21 20:09:07,157 INFO:     Max reward:  398.33 
+2018-10-21 20:09:07,159 INFO:     Reward std:  71.79 
+2018-10-21 20:09:07,161 INFO:     Saving model of best agent and CMA state 
+2018-10-21 20:09:08,199 INFO:      
+2018-10-21 20:09:08,202 INFO:     Evaluating 32 canidates of generation 108 
+2018-10-21 20:33:02,995 INFO:     Finished generation in 1434.82 seconds. 
+2018-10-21 20:33:02,996 INFO:     Mean reward: 184.74 
+2018-10-21 20:33:02,998 INFO:     Max reward:  346.67 
+2018-10-21 20:33:02,999 INFO:     Reward std:  66.01 
+2018-10-21 20:33:03,000 INFO:     Saving model of best agent and CMA state 
+2018-10-21 20:33:04,373 INFO:      
+2018-10-21 20:33:04,388 INFO:     Evaluating 32 canidates of generation 109 
+2018-10-21 20:57:38,806 INFO:     Finished generation in 1475.13 seconds. 
+2018-10-21 20:57:38,809 INFO:     Mean reward: 194.69 
+2018-10-21 20:57:38,811 INFO:     Max reward:  308.33 
+2018-10-21 20:57:38,813 INFO:     Reward std:  53.83 
+2018-10-21 20:57:38,815 INFO:     Saving model of best agent and CMA state 
+2018-10-21 20:57:40,344 INFO:      
+2018-10-21 20:57:40,357 INFO:     Evaluating 32 canidates of generation 110 
+2018-10-21 21:24:45,025 INFO:     Finished generation in 1624.72 seconds. 
+2018-10-21 21:24:45,027 INFO:     Mean reward: 214.84 
+2018-10-21 21:24:45,029 INFO:     Max reward:  386.67 
+2018-10-21 21:24:45,031 INFO:     Reward std:  75.45 
+2018-10-21 21:24:45,033 INFO:     Saving model of best agent and CMA state 
+2018-10-21 21:24:46,591 INFO:      
+2018-10-21 21:24:46,598 INFO:     Evaluating 32 canidates of generation 111 
+2018-10-21 21:51:39,930 INFO:     Finished generation in 1613.37 seconds. 
+2018-10-21 21:51:39,933 INFO:     Mean reward: 215.05 
+2018-10-21 21:51:39,935 INFO:     Max reward:  350.00 
+2018-10-21 21:51:39,937 INFO:     Reward std:  66.48 
+2018-10-21 21:51:39,939 INFO:     Saving model of best agent and CMA state 
+2018-10-21 21:51:43,775 INFO:      
+2018-10-21 21:51:43,790 INFO:     Evaluating 32 canidates of generation 112 
+2018-10-21 22:18:19,387 INFO:     Finished generation in 1597.73 seconds. 
+2018-10-21 22:18:19,389 INFO:     Mean reward: 231.67 
+2018-10-21 22:18:19,391 INFO:     Max reward:  421.67 
+2018-10-21 22:18:19,393 INFO:     Reward std:  69.48 
+2018-10-21 22:18:19,394 INFO:     Saving model of best agent and CMA state 
+2018-10-21 22:18:20,120 INFO:      
+2018-10-21 22:18:20,123 INFO:     Evaluating 32 canidates of generation 113 
+2018-10-21 22:45:59,904 INFO:     Finished generation in 1659.86 seconds. 
+2018-10-21 22:45:59,905 INFO:     Mean reward: 236.15 
+2018-10-21 22:45:59,906 INFO:     Max reward:  401.67 
+2018-10-21 22:45:59,908 INFO:     Reward std:  72.21 
+2018-10-21 22:45:59,909 INFO:     Saving model of best agent and CMA state 
+2018-10-21 22:46:00,236 INFO:      
+2018-10-21 22:46:00,237 INFO:     Evaluating 32 canidates of generation 114 
+2018-10-21 23:10:35,149 INFO:     Finished generation in 1474.92 seconds. 
+2018-10-21 23:10:35,150 INFO:     Mean reward: 199.06 
+2018-10-21 23:10:35,151 INFO:     Max reward:  370.00 
+2018-10-21 23:10:35,153 INFO:     Reward std:  73.49 
+2018-10-21 23:10:35,154 INFO:     Saving model of best agent and CMA state 
+2018-10-21 23:10:35,568 INFO:      
+2018-10-21 23:10:35,570 INFO:     Evaluating 32 canidates of generation 115 
+2018-10-21 23:35:37,119 INFO:     Finished generation in 1501.62 seconds. 
+2018-10-21 23:35:37,121 INFO:     Mean reward: 192.55 
+2018-10-21 23:35:37,124 INFO:     Max reward:  341.67 
+2018-10-21 23:35:37,127 INFO:     Reward std:  62.58 
+2018-10-21 23:35:37,129 INFO:     Saving model of best agent and CMA state 
+2018-10-21 23:35:38,035 INFO:      
+2018-10-21 23:35:38,051 INFO:     Evaluating 32 canidates of generation 116 
+2018-10-22 00:02:54,631 INFO:     Finished generation in 1636.63 seconds. 
+2018-10-22 00:02:54,632 INFO:     Mean reward: 226.46 
+2018-10-22 00:02:54,633 INFO:     Max reward:  416.67 
+2018-10-22 00:02:54,635 INFO:     Reward std:  71.84 
+2018-10-22 00:02:54,636 INFO:     Saving model of best agent and CMA state 
+2018-10-22 00:02:55,080 INFO:      
+2018-10-22 00:02:55,082 INFO:     Evaluating 32 canidates of generation 117 
+2018-10-22 00:30:13,113 INFO:     Finished generation in 1638.04 seconds. 
+2018-10-22 00:30:13,115 INFO:     Mean reward: 224.53 
+2018-10-22 00:30:13,119 INFO:     Max reward:  435.00 
+2018-10-22 00:30:13,122 INFO:     Reward std:  85.20 
+2018-10-22 00:30:13,124 INFO:     Saving model of best agent and CMA state 
+2018-10-22 00:30:16,688 INFO:      
+2018-10-22 00:30:16,702 INFO:     Evaluating 32 canidates of generation 118 
+2018-10-22 00:55:16,568 INFO:     Finished generation in 1502.20 seconds. 
+2018-10-22 00:55:16,570 INFO:     Mean reward: 197.08 
+2018-10-22 00:55:16,572 INFO:     Max reward:  421.67 
+2018-10-22 00:55:16,573 INFO:     Reward std:  66.10 
+2018-10-22 00:55:16,575 INFO:     Saving model of best agent and CMA state 
+2018-10-22 00:55:17,952 INFO:      
+2018-10-22 00:55:17,965 INFO:     Evaluating 32 canidates of generation 119 
+2018-10-22 01:22:41,666 INFO:     Finished generation in 1643.74 seconds. 
+2018-10-22 01:22:41,668 INFO:     Mean reward: 233.91 
+2018-10-22 01:22:41,673 INFO:     Max reward:  405.00 
+2018-10-22 01:22:41,677 INFO:     Reward std:  86.45 
+2018-10-22 01:22:41,679 INFO:     Saving model of best agent and CMA state 
+2018-10-22 01:22:43,879 INFO:      
+2018-10-22 01:22:43,884 INFO:     Evaluating 32 canidates of generation 120 
+2018-10-22 01:50:59,038 INFO:     Finished generation in 1695.19 seconds. 
+2018-10-22 01:50:59,040 INFO:     Mean reward: 226.35 
+2018-10-22 01:50:59,044 INFO:     Max reward:  420.00 
+2018-10-22 01:50:59,046 INFO:     Reward std:  78.57 
+2018-10-22 01:50:59,048 INFO:     Saving model of best agent and CMA state 
+2018-10-22 01:51:03,064 INFO:      
+2018-10-22 01:51:03,075 INFO:     Evaluating 32 canidates of generation 121 
+2018-10-22 02:19:06,005 INFO:     Finished generation in 1685.40 seconds. 
+2018-10-22 02:19:06,007 INFO:     Mean reward: 229.64 
+2018-10-22 02:19:06,009 INFO:     Max reward:  411.67 
+2018-10-22 02:19:06,011 INFO:     Reward std:  74.98 
+2018-10-22 02:19:06,013 INFO:     Saving model of best agent and CMA state 
+2018-10-22 02:19:07,212 INFO:      
+2018-10-22 02:19:07,224 INFO:     Evaluating 32 canidates of generation 122 
+2018-10-22 02:43:38,051 INFO:     Finished generation in 1470.86 seconds. 
+2018-10-22 02:43:38,052 INFO:     Mean reward: 189.90 
+2018-10-22 02:43:38,053 INFO:     Max reward:  351.67 
+2018-10-22 02:43:38,055 INFO:     Reward std:  65.79 
+2018-10-22 02:43:38,057 INFO:     Saving model of best agent and CMA state 
+2018-10-22 02:43:38,728 INFO:      
+2018-10-22 02:43:38,741 INFO:     Evaluating 32 canidates of generation 123 
+2018-10-22 03:07:28,001 INFO:     Finished generation in 1429.31 seconds. 
+2018-10-22 03:07:28,003 INFO:     Mean reward: 188.65 
+2018-10-22 03:07:28,005 INFO:     Max reward:  403.33 
+2018-10-22 03:07:28,010 INFO:     Reward std:  82.27 
+2018-10-22 03:07:28,014 INFO:     Saving model of best agent and CMA state 
+2018-10-22 03:07:30,945 INFO:      
+2018-10-22 03:07:30,952 INFO:     Evaluating 32 canidates of generation 124 
+2018-10-22 03:33:31,325 INFO:     Finished generation in 1562.60 seconds. 
+2018-10-22 03:33:31,326 INFO:     Mean reward: 210.16 
+2018-10-22 03:33:31,327 INFO:     Max reward:  443.33 
+2018-10-22 03:33:31,328 INFO:     Reward std:  81.12 
+2018-10-22 03:33:31,329 INFO:     Saving model of best agent and CMA state 
+2018-10-22 03:33:31,689 INFO:      
+2018-10-22 03:33:31,691 INFO:     Evaluating 32 canidates of generation 125 
+2018-10-22 04:01:19,984 INFO:     Finished generation in 1668.30 seconds. 
+2018-10-22 04:01:19,985 INFO:     Mean reward: 226.20 
+2018-10-22 04:01:19,986 INFO:     Max reward:  398.33 
+2018-10-22 04:01:19,987 INFO:     Reward std:  80.52 
+2018-10-22 04:01:19,988 INFO:     Saving model of best agent and CMA state 
+2018-10-22 04:01:20,463 INFO:      
+2018-10-22 04:01:20,467 INFO:     Evaluating 32 canidates of generation 126 
+2018-10-22 04:27:44,227 INFO:     Finished generation in 1583.84 seconds. 
+2018-10-22 04:27:44,230 INFO:     Mean reward: 208.91 
+2018-10-22 04:27:44,232 INFO:     Max reward:  386.67 
+2018-10-22 04:27:44,234 INFO:     Reward std:  66.19 
+2018-10-22 04:27:44,236 INFO:     Saving model of best agent and CMA state 
+2018-10-22 04:27:47,563 INFO:      
+2018-10-22 04:27:47,576 INFO:     Evaluating 32 canidates of generation 127 
+2018-10-22 04:53:25,479 INFO:     Finished generation in 1540.15 seconds. 
+2018-10-22 04:53:25,481 INFO:     Mean reward: 201.77 
+2018-10-22 04:53:25,483 INFO:     Max reward:  381.67 
+2018-10-22 04:53:25,485 INFO:     Reward std:  72.66 
+2018-10-22 04:53:25,487 INFO:     Saving model of best agent and CMA state 
+2018-10-22 04:53:26,871 INFO:      
+2018-10-22 04:53:26,876 INFO:     Evaluating 32 canidates of generation 128 
+2018-10-22 05:18:36,189 INFO:     Finished generation in 1509.39 seconds. 
+2018-10-22 05:18:36,190 INFO:     Mean reward: 195.78 
+2018-10-22 05:18:36,191 INFO:     Max reward:  366.67 
+2018-10-22 05:18:36,192 INFO:     Reward std:  61.62 
+2018-10-22 05:18:36,193 INFO:     Saving model of best agent and CMA state 
+2018-10-22 05:18:36,899 INFO:      
+2018-10-22 05:18:36,902 INFO:     Evaluating 32 canidates of generation 129 
+2018-10-22 05:45:12,351 INFO:     Finished generation in 1595.48 seconds. 
+2018-10-22 05:45:12,353 INFO:     Mean reward: 213.28 
+2018-10-22 05:45:12,356 INFO:     Max reward:  463.33 
+2018-10-22 05:45:12,358 INFO:     Reward std:  84.10 
+2018-10-22 05:45:12,360 INFO:     Saving model of best agent and CMA state 
+2018-10-22 05:45:16,775 INFO:      
+2018-10-22 05:45:16,783 INFO:     Evaluating 32 canidates of generation 130 
+2018-10-22 06:12:16,333 INFO:     Finished generation in 1622.53 seconds. 
+2018-10-22 06:12:16,336 INFO:     Mean reward: 228.70 
+2018-10-22 06:12:16,338 INFO:     Max reward:  420.00 
+2018-10-22 06:12:16,339 INFO:     Reward std:  84.22 
+2018-10-22 06:12:16,341 INFO:     Saving model of best agent and CMA state 
+2018-10-22 06:12:17,999 INFO:      
+2018-10-22 06:12:18,004 INFO:     Evaluating 32 canidates of generation 131 
+2018-10-22 06:36:16,675 INFO:     Finished generation in 1438.73 seconds. 
+2018-10-22 06:36:16,676 INFO:     Mean reward: 182.60 
+2018-10-22 06:36:16,677 INFO:     Max reward:  295.00 
+2018-10-22 06:36:16,678 INFO:     Reward std:  55.44 
+2018-10-22 06:36:16,678 INFO:     Saving model of best agent and CMA state 
+2018-10-22 06:36:17,435 INFO:      
+2018-10-22 06:36:17,438 INFO:     Evaluating 32 canidates of generation 132 
+2018-10-22 07:04:08,079 INFO:     Finished generation in 1670.65 seconds. 
+2018-10-22 07:04:08,081 INFO:     Mean reward: 217.81 
+2018-10-22 07:04:08,082 INFO:     Max reward:  436.67 
+2018-10-22 07:04:08,083 INFO:     Reward std:  73.58 
+2018-10-22 07:04:08,084 INFO:     Saving model of best agent and CMA state 
+2018-10-22 07:04:08,421 INFO:      
+2018-10-22 07:04:08,423 INFO:     Evaluating 32 canidates of generation 133 
+2018-10-22 07:32:06,966 INFO:     Finished generation in 1678.61 seconds. 
+2018-10-22 07:32:06,968 INFO:     Mean reward: 222.76 
+2018-10-22 07:32:06,970 INFO:     Max reward:  416.67 
+2018-10-22 07:32:06,972 INFO:     Reward std:  63.08 
+2018-10-22 07:32:06,973 INFO:     Saving model of best agent and CMA state 
+2018-10-22 07:32:07,632 INFO:      
+2018-10-22 07:32:07,645 INFO:     Evaluating 32 canidates of generation 134 
+2018-10-22 08:00:20,991 INFO:     Finished generation in 1693.38 seconds. 
+2018-10-22 08:00:20,993 INFO:     Mean reward: 228.44 
+2018-10-22 08:00:20,995 INFO:     Max reward:  406.67 
+2018-10-22 08:00:20,997 INFO:     Reward std:  79.76 
+2018-10-22 08:00:20,998 INFO:     Saving model of best agent and CMA state 
+2018-10-22 08:00:21,815 INFO:      
+2018-10-22 08:00:21,818 INFO:     Evaluating 32 canidates of generation 135 
+2018-10-22 08:29:57,399 INFO:     Finished generation in 1775.61 seconds. 
+2018-10-22 08:29:57,401 INFO:     Mean reward: 254.17 
+2018-10-22 08:29:57,403 INFO:     Max reward:  405.00 
+2018-10-22 08:29:57,406 INFO:     Reward std:  73.84 
+2018-10-22 08:29:57,409 INFO:     Saving model of best agent and CMA state 
+2018-10-22 08:30:01,412 INFO:      
+2018-10-22 08:30:01,418 INFO:     Evaluating 32 canidates of generation 136 
+2018-10-22 08:55:43,232 INFO:     Finished generation in 1544.73 seconds. 
+2018-10-22 08:55:43,235 INFO:     Mean reward: 193.59 
+2018-10-22 08:55:43,237 INFO:     Max reward:  410.00 
+2018-10-22 08:55:43,240 INFO:     Reward std:  65.23 
+2018-10-22 08:55:43,243 INFO:     Saving model of best agent and CMA state 
+2018-10-22 08:55:44,519 INFO:      
+2018-10-22 08:55:44,526 INFO:     Evaluating 32 canidates of generation 137 
+2018-10-22 09:21:46,822 INFO:     Finished generation in 1562.37 seconds. 
+2018-10-22 09:21:46,823 INFO:     Mean reward: 209.84 
+2018-10-22 09:21:46,824 INFO:     Max reward:  423.33 
+2018-10-22 09:21:46,826 INFO:     Reward std:  80.56 
+2018-10-22 09:21:46,827 INFO:     Saving model of best agent and CMA state 
+2018-10-22 09:21:47,400 INFO:      
+2018-10-22 09:21:47,402 INFO:     Evaluating 32 canidates of generation 138 
+2018-10-22 09:50:24,355 INFO:     Finished generation in 1716.96 seconds. 
+2018-10-22 09:50:24,356 INFO:     Mean reward: 239.38 
+2018-10-22 09:50:24,358 INFO:     Max reward:  443.33 
+2018-10-22 09:50:24,359 INFO:     Reward std:  74.13 
+2018-10-22 09:50:24,360 INFO:     Saving model of best agent and CMA state 
+2018-10-22 09:50:25,572 INFO:      
+2018-10-22 09:50:25,583 INFO:     Evaluating 32 canidates of generation 139 
+2018-10-22 10:15:06,700 INFO:     Finished generation in 1481.52 seconds. 
+2018-10-22 10:15:06,702 INFO:     Mean reward: 189.95 
+2018-10-22 10:15:06,706 INFO:     Max reward:  405.00 
+2018-10-22 10:15:06,708 INFO:     Reward std:  63.66 
+2018-10-22 10:15:06,712 INFO:     Saving model of best agent and CMA state 
+2018-10-22 10:15:08,187 INFO:      
+2018-10-22 10:15:08,199 INFO:     Evaluating 32 canidates of generation 140 
+2018-10-22 10:40:06,511 INFO:     Finished generation in 1498.35 seconds. 
+2018-10-22 10:40:06,513 INFO:     Mean reward: 196.04 
+2018-10-22 10:40:06,517 INFO:     Max reward:  336.67 
+2018-10-22 10:40:06,519 INFO:     Reward std:  61.53 
+2018-10-22 10:40:06,522 INFO:     Saving model of best agent and CMA state 
+2018-10-22 10:40:08,048 INFO:      
+2018-10-22 10:40:08,058 INFO:     Evaluating 32 canidates of generation 141 
+2018-10-22 11:08:25,645 INFO:     Finished generation in 1697.64 seconds. 
+2018-10-22 11:08:25,648 INFO:     Mean reward: 231.61 
+2018-10-22 11:08:25,655 INFO:     Max reward:  421.67 
+2018-10-22 11:08:25,657 INFO:     Reward std:  75.88 
+2018-10-22 11:08:25,660 INFO:     Saving model of best agent and CMA state 
+2018-10-22 11:08:30,348 INFO:      
+2018-10-22 11:08:30,355 INFO:     Evaluating 32 canidates of generation 142 

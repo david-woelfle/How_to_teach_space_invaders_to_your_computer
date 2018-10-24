@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+    teach-space-invaders:
+        container_name: teach-space-invaders
+        image: dwoelfle/rl-notebook:0.0.5-cpu-py3
+        ports: 
+            - 8888:8888
+        volumes: 
+            - ./:/notebooks
+        user: "1000:1000"
+
