@@ -19,7 +19,7 @@ See also https://docs.docker.com/compose/overview/ for an introduction to docker
 
 To handle the containers you may want to execute the following commands inside the root directory of the repository:  
 Use `docker-compose up -d` to start the container. Afterwards you can visit [http://localhost:8888](http://localhost:8888) in your browser to access the notebook server.  
-Use `docker-compose logs | grep token= | cut -d = -f 2'` to retrieve the token required for logging in at juypter.  
+Use `docker-compose logs | grep token= | cut -d = -f 2` to retrieve the token required for logging in at juypter.  
 Use `docker-compose down` to stop and remove the container.  
   
 The training can also be executed on a GPU, to do so overwrite the [docker-compose.yml](docker-compose.yml) file with the version in [gpu_mode/docker-compose.yml](gpu_mode/docker-compose.yml). You will need to have [nvidia docker](https://github.com/NVIDIA/nvidia-docker) installed.  
